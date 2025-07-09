@@ -1,0 +1,4 @@
+{
+    "command": "npm install && npm run type-check && npm run test:unit -- --run",
+    "working_directory": "/home/kavia/workspace/code-generation/expenseease-112592-112602/budget_buddy_frontend"
+}
